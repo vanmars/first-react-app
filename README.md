@@ -14,8 +14,8 @@ _This is a simle exercise to practice creating a React Native application. I wil
 ## Setup/Installation Requirements
 
 * Navigate to the directory in which you would like to clone this project.
-* Run `git clone https://github.com/vanmars/first-react-app.git` in terminal.
-* Run `cd first-react-app` to navigate into new project directory.
+* Run `git clone https://github.com/vanmars/first-react-native-app.git` in terminal.
+* Run `cd first-react-native-app` to navigate into new project directory.
 * Open the cloned repo in a text editor of your choice.
 * Run `npm install` to download all dependencies.
 * Run `npm run start` to start a live server and view projec in the browser.
